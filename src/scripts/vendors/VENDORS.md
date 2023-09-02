@@ -4,4 +4,4 @@
 - https://www.npmjs.com/package/slick-carousel
 - https://github.com/miguel-perez/smoothState.js
 
-_Prepend all vendor scripts in app.js for preprocessing into a single build file._
+_Prepend all vendor scripts in main.js for preprocessing into a single build file._
