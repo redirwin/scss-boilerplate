@@ -19,7 +19,7 @@ This document serves as a guide for the organization and management of SCSS fold
 
 ### Updating Main SCSS File
 
-- **`_all*.scss` Files**: Whenever you create or delete SCSS files, ensure you **_update the import statements in the "all.scss" file_** of the corresponding primary folder to reflect these changes and ensure all styles are properly routed to the main.scss.
+- **`_all*.scss` Files**: Whenever you create or delete SCSS files, ensure you **_update the import statements in the `_all*.scss` file_** of the corresponding primary folder to reflect these changes and ensure all styles are properly routed to the main.scss.
 
 ## Table of Contents
 
