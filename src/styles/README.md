@@ -4,7 +4,7 @@ This document outlines the organization of SCSS folders used in our projects. Th
 
 The contents of the primary folders labeled 1 (Helpers), 2 (Plugins), and 3 (Base) are considered fixed and should not be altered. This ensures a consistent foundational styling across all projects.
 
-For the primary folders 4 (Layout), 5 (Modules), and 6 (Templates), you have more flexibility. You can add, remove, rename, or modify files in these folders as your project requires. If you create any new sub-files, make sure to import them into the \_all\*.scss file located within their respective primary folders.
+For the primary folders 4 (Layout), 5 (Modules), and 6 (Templates), you have more flexibility. You can add, remove, rename, or modify files in these folders as your project requires. If you create or delete any sub-files, make sure to update the `_all\*.scss` file located within their respective primary folders.
 
 ## Table of Contents
 
