@@ -1,6 +1,6 @@
 # SCSS Folder and File Guidelines
 
-This document serves as a guide for the organization and management of SCSS folders and files in our projects.
+This document serves as a guide for the organization and management of SCSS folders and files used in our regular website projects.
 
 ## Guidelines
 
