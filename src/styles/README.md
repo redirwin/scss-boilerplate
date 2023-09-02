@@ -28,7 +28,7 @@ This document serves as a guide for the organization and management of SCSS fold
 3. [Base](#base)
 4. [Layout](#layout)
 5. [Modules](#modules)
-6. [Pages](#pages)
+6. [Templates](#templates)
 
 ---
 
@@ -83,9 +83,9 @@ The `Modules` folder is for reusable, modular components. These are like the fur
 
 ---
 
-### Pages
+### Templates
 
-The `Pages` folder has styles specific to individual pages. It's for adding those unique touches to different sections of your site.
+The `Templates` folder has styles specific to individual pages. It's for adding those unique touches to different sections of your site.
 
 - **Home**: Landing page styles.
 - **Blog List**: Styles for blog listing page.
