@@ -6,11 +6,11 @@ This document serves as a guide for the organization and management of SCSS fold
 
 ### Primary Folders
 
-- **Labeling**: The primary folders are numerically labeled from 1 to 6. Do not rename these folders.
+- **Labeling**: The primary folders are numerically labeled from 1 to 6. **_Do not rename these folders_**.
 
 ### Folders 1, 2, 3 (Helpers, Plugins, Base)
 
-- **File Names**: Use the existing SCSS files and do not change their names.
+- **File Names**: Use the existing SCSS files and **_do not change their names_**.
 - **File Content**: Feel free to edit the content within these files to align with project-specific requirements.
 
 ### Folders 4, 5, 6 (Layout, Modules, Templates)
@@ -19,7 +19,7 @@ This document serves as a guide for the organization and management of SCSS fold
 
 ### Updating Main SCSS File
 
-- **`_all*.scss` Files**: Whenever you create or delete SCSS files, ensure you update the `_all*.scss` file in the corresponding primary folder to reflect these changes.
+- **`_all*.scss` Files**: Whenever you create or delete SCSS files, ensure you **_update the import statements in the `\_all_.scss` file\*** of the corresponding primary folder to reflect these changes.
 
 ## Table of Contents
 
