@@ -15,7 +15,7 @@ This document serves as a guide for the organization and management of SCSS fold
 
 ### Folders 4-layout, 5-modules, & 6-templates
 
-- **Flexibility**: In these folders, you have the liberty to add, remove, rename, or modify SCSS files as the project demands.
+- **Flexibility**: In these folders, you have the liberty to add, remove, rename, or modify SCSS files as the project demands. Some SCSS files are provided as a starting point, but you are not limited or required to use them. Remove any files that are not used.
 
 ### Updating Main SCSS File
 
