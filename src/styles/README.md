@@ -1,6 +1,10 @@
 # SCSS Folder Structure
 
-This document describes the folder structure for reusable SCSS styling in our projects.
+This document outlines the organization of SCSS folders used in our projects. These folders are named numerically from 1 to 6, and their names should remain unchanged for the sake of uniformity.
+
+The contents of the primary folders labeled 1 (Helpers), 2 (Plugins), and 3 (Base) are considered fixed and should not be altered. This ensures a consistent foundational styling across all projects.
+
+For the primary folders 4 (Layout), 5 (Modules), and 6 (Templates), you have more flexibility. You can add, remove, rename, or modify files in these folders as your project requires. If you create any new sub-files, make sure to import them into the \_all\*.scss file located within their respective primary folders.
 
 ## Table of Contents
 
