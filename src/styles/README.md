@@ -10,8 +10,8 @@ This document serves as a guide for the organization and management of SCSS fold
 
 ### Folders 1-helpers, 2-plugins, & 3-base
 
-- **File Names**: Use the existing SCSS files and **_do not change their names_**.
-- **File Content**: Feel free to edit the content within these files to align with project-specific requirements.
+- **SCSS File Names**: Use the existing SCSS files and **_do not change their names_**.
+- **SCSS File Content**: Feel free to edit the content within these SCSS files to align with project-specific requirements.
 
 ### Folders 4-layout, 5-modules, & 6-templates
 
@@ -19,7 +19,7 @@ This document serves as a guide for the organization and management of SCSS fold
 
 ### Updating Main SCSS File
 
-- **`_all*.scss` Files**: Whenever you create or delete SCSS files, ensure you **_update the import statements in the `\_all_.scss` file\*** of the corresponding primary folder to reflect these changes.
+- **`_all*.scss` Files**: Whenever you create or delete SCSS files, ensure you **_update the import statements in the "all.scss" file_** of the corresponding primary folder to reflect these changes and ensure all styles are properly routed to the main.scss.
 
 ## Table of Contents
 
