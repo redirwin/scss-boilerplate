@@ -8,12 +8,12 @@ This document serves as a guide for the organization and management of SCSS fold
 
 - **Labeling**: The primary folders are numerically labeled from 1 to 6. **_Do not rename these folders_**.
 
-### Folders 1, 2, 3 (Helpers, Plugins, Base)
+### Folders 1-helpers, 2-plugins, & 3-base
 
 - **File Names**: Use the existing SCSS files and **_do not change their names_**.
 - **File Content**: Feel free to edit the content within these files to align with project-specific requirements.
 
-### Folders 4, 5, 6 (Layout, Modules, Templates)
+### Folders 4-layout, 5-modules, & 6-templates
 
 - **Flexibility**: In these folders, you have the liberty to add, remove, rename, or modify SCSS files as the project demands.
 
